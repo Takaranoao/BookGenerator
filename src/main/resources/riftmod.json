@@ -1,0 +1,11 @@
+
+{
+    "id": "bookgenerator",
+    "name": "BookGenerator-Rift",
+    "authors": [
+        "Takaranoao"
+    ],
+    "listeners": [
+        "com.takaranoao.bookgenerator.rift.RiftCore"
+    ]
+}

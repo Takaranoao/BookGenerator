@@ -1,0 +1,9 @@
+{
+  "minVersion": "0.7.7",
+  "package": "com.takaranoao.bookgenerator.rift.mixin",
+  "refmap": "mixins.bookgenerator.refmap.json",
+  "mixins": [],
+  "client": [
+    "MixinGuiScreenBook"
+  ]
+}
